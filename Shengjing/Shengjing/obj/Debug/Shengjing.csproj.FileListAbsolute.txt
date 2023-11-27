@@ -1,0 +1,12 @@
+G:\VSSource\Shengjing\Shengjing\bin\Debug\Shengjing.exe.config
+G:\VSSource\Shengjing\Shengjing\bin\Debug\Shengjing.exe
+G:\VSSource\Shengjing\Shengjing\bin\Debug\Shengjing.pdb
+G:\VSSource\Shengjing\Shengjing\obj\Debug\Shengjing.csproj.AssemblyReference.cache
+G:\VSSource\Shengjing\Shengjing\obj\Debug\Shengjing.csproj.SuggestedBindingRedirects.cache
+G:\VSSource\Shengjing\Shengjing\obj\Debug\Shengjing.Form1.resources
+G:\VSSource\Shengjing\Shengjing\obj\Debug\Shengjing.Properties.Resources.resources
+G:\VSSource\Shengjing\Shengjing\obj\Debug\Shengjing.csproj.GenerateResource.cache
+G:\VSSource\Shengjing\Shengjing\obj\Debug\Shengjing.csproj.CoreCompileInputs.cache
+G:\VSSource\Shengjing\Shengjing\obj\Debug\Shengjing.exe
+G:\VSSource\Shengjing\Shengjing\obj\Debug\Shengjing.pdb
+G:\VSSource\Shengjing\Shengjing\obj\Debug\Shengjing.Start.resources
